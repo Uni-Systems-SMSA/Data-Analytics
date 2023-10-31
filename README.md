@@ -43,4 +43,4 @@ To use this dataset and implement machine learning models for network traffic an
 ## References
 - [Link to the original CICIoT2023 dataset publication](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
 
-
+- https://drive.google.com/drive/u/0/folders/1HnOg3ff0ar71i1EACIBHoLHJqFfoMMG7 (Presentation)
